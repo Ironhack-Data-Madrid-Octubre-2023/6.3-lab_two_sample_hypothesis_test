@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Two Sample Hypothesis Testing
+# Lab | Two Sample Hypothesis Testing MODIFICADO
 
 ## Introduction
 
